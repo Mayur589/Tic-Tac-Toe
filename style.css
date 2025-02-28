@@ -1,7 +1,5 @@
-@font-face {
-  font-family: "Press Start 2P";
-  src: url(PressStart2P-Regular.ttf);
-}
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&family=Press+Start+2P&display=swap');
+
 * {
   margin: 0;
   font-family: "Press Start 2P";
